@@ -12,6 +12,8 @@ Metadata for data files
 
 -   i'm going to add a line of text
 
+-   New commit
+
 ```{r}
 1 + 1
 ```
