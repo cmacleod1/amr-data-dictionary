@@ -10,7 +10,7 @@ Data files:
 
 -   gapminder_data.csv
 -   hgt_wgt.csv
--   dig_health_hub_amr_v2.csv
+-   dig_health_hub_amr_v3.csv
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
